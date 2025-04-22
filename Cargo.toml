@@ -1,5 +1,5 @@
 [package]
-name = "iris"
+name = "iris-png"
 authors = ["Matthew Kim"]
 version = "0.1.1"
 edition = "2021"
@@ -20,7 +20,7 @@ exclude = [
 ]
 
 [[bin]]
-name = "iris"
+name = "iris-png"
 path = "src/main.rs"
 
 [[bin]]
